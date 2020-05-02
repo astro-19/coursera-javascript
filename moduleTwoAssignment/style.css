@@ -4,7 +4,7 @@
 }
 
 body {
-
+	background-color: #FFB6C1;
 }
 
 .ourmenu {
@@ -16,7 +16,7 @@ body {
 section {
 	border: 1px solid red;
 	margin: 13px;
-	background-color: #fff;
+	background-color: #FF69B4;
 }
 
 section>h2 {
